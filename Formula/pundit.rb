@@ -1,8 +1,8 @@
 class Pundit < Formula
   desc "Weekly bulletins for Fantasy Premier League mini-leagues"
   homepage "https://github.com/gwionrob/pundit"
-  url "https://registry.npmjs.org/pundit-cli/-/pundit-cli-0.1.1.tgz"
-  sha256 "b42854fe5f7b50698ef54e45bd059b83a8b8ca9c78e2a58c38edfb2472b35511"
+  url "https://registry.npmjs.org/pundit-cli/-/pundit-cli-0.1.2.tgz"
+  sha256 "7a67d54ba4e9cf48178df716e3deaf1c2cbc443a9549dd90bf403003ab1d1939"
   license "MIT"
 
   depends_on "node"
